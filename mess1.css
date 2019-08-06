@@ -1,0 +1,29 @@
+body{
+    background-color: brown;
+    margin: 0px;
+    padding: 0px;
+
+    
+}
+h2{
+    position: absolute;
+ top: 50px;
+    left:330px;
+    text-align: center;
+}
+.container{
+    border-radius: 5px;
+    position: absolute;
+    top:200px;
+    left:550px;
+    background-color: darkgray;
+    width:200px;
+    height: 250px;
+    text-align: center;
+    display: block;
+}
+.textbox{
+   border-radius: 5px; 
+align-items: center;
+    
+}
